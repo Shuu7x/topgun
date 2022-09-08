@@ -1,0 +1,12 @@
+{
+  "vsmqtt.brokerProfiles": [
+    {
+      "name": "test",
+      "host": "localhost",
+      "port": 1883,
+      "clientId": "vsmqtt_client",
+      "username": "blank_clouded",
+      "password": "B22Xpass__"
+    }
+  ]
+}
